@@ -39,18 +39,18 @@ const data = {
   navMain: [
     {
       title: "Dashboard",
-      url: "/dashboard",
+      url: "/",
       icon: IconDashboard,
       isActive: true,
     },
     {
-      title: "Peta Persebaran Penyakit",
-      url: "/petapersebaran",
+      title: "Peta Persebaran",
+      url: "/peta-persebaran",
       icon: IconListDetails,
     },
     {
-      title: "Pemantauan Kepatuhan Terapi",
-      url: "pemantauankepatuhan",
+      title: "Pemantauan Pasien",
+      url: "/pemantauan-pasien",
       icon: IconChartBar,
     },
     {
